@@ -1,0 +1,5 @@
+#1 apples $1.49/lb
+#2 avocados $4.95/lb
+#3 banana $1.25/lb
+#4 grapes $1.05/lb
+#5 pineapple $0.99/lb/
